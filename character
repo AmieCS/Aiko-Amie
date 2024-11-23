@@ -1,4 +1,3 @@
-```typescript
 import { Character, ModelProviderName } from "./types.ts";
 
 export const defaultCharacter: Character = {
@@ -140,4 +139,4 @@ export const defaultCharacter: Character = {
         ],
     },
 };
-```
+
